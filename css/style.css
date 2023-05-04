@@ -1,0 +1,40 @@
+body {
+  font: Arial, Helvetica, sans-serif;
+  padding: 0;
+  margin: 0;
+  background-color: white;
+}
+
+.container {
+  width: 90%;
+  margin: auto;
+  overflow: hidden;
+}
+
+header {
+  background-color: #f8d1d1;
+  color: rgb(124, 72, 3);
+  padding-top: 10px;
+  min-height: 70px;
+  border-bottom: rgb(110, 64, 3) 3px solid;
+}
+
+header #branding {
+  float: left;
+}
+
+footer {
+  padding: 5px;
+  margin-top: 10px;
+  color: rgb(124, 72, 3);
+  background-color: #f8d1d1;
+  text-align: center;
+}
+
+.box img {
+  width: 1000px;
+}
+
+.main {
+  text-align: center;
+}
