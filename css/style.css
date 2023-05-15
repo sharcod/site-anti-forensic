@@ -2,7 +2,7 @@ body {
   font: Arial, Helvetica, sans-serif;
   padding: 0;
   margin: 0;
-  background-color: white;
+  background-color: rgb(255, 255, 255);
 }
 
 .container {
@@ -12,7 +12,7 @@ body {
 }
 
 header {
-  background-color: #f8d1d1;
+  background-color: #fafafa;
   color: rgb(124, 72, 3);
   padding-top: 10px;
   min-height: 70px;
@@ -26,8 +26,8 @@ header #branding {
 footer {
   padding: 5px;
   margin-top: 10px;
-  color: rgb(124, 72, 3);
-  background-color: #f8d1d1;
+  color: rgb(7, 7, 7);
+  background-color: #fdfdfd;
   text-align: center;
 }
 
@@ -37,4 +37,44 @@ footer {
 
 .main {
   text-align: center;
+}
+
+/* page banner */
+
+#idx_top { 
+  width: 100%; 
+  padding: 250px 0; 
+  background: url(../image/unsplash-d.jpg) no-repeat 50% 50% /cover;
+  text-align: center;
+}
+#idx_top strong,
+#idx_top p {
+  color: orange
+}
+#idx_top strong {
+  font-size: 70px;
+  letter-spacing: -1px;
+}
+#idx_top p {
+  margin-top: 20px;
+  font-size: 30px;
+}
+
+#indx_top {
+  width: 100%; 
+  padding: 250px 0; 
+  background: url(../image/unsplash-b.jpg) no-repeat 50% 50% /cover;
+  text-align: center;
+}
+#indx_top strong,
+#indx_top p {
+  color: ghostwhite
+}
+#indx_top strong {
+  font-size: 70px;
+  letter-spacing: -1px;
+}
+#indx_top p {
+  margin-top: 20px;
+  font-size: 30px;
 }
