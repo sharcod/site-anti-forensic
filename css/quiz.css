@@ -66,3 +66,22 @@ button {
 h1 {
   text-align: center;
 }
+
+#index_qiz { 
+  width: 100%; 
+  padding: 250px 0; 
+  background: url(../image/unsplash-qq.jpg) no-repeat 50% 50% /cover;
+  text-align: center;
+}
+#index_qiz strong,
+#index_qiz p {
+  color: rgb(26, 168, 85)
+}
+#index_qiz strong {
+  font-size: 70px;
+  letter-spacing: -1px;
+}
+#index_qiz p {
+  margin-top: 20px;
+  font-size: 30px;
+}
