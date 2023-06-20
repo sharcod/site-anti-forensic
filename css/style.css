@@ -41,15 +41,15 @@ footer {
 
 /* page banner */
 
-#idx_top { 
-  width: 100%; 
-  padding: 250px 0; 
-  background: url(../image/unsplash-d.jpg) no-repeat 50% 50% /cover;
+#idx_top {
+  width: 100%;
+  padding: 250px 0;
+  background: url(../image/unsplash-d.jpg) no-repeat 50% 50% / cover;
   text-align: center;
 }
 #idx_top strong,
 #idx_top p {
-  color: orange
+  color: orange;
 }
 #idx_top strong {
   font-size: 70px;
@@ -61,14 +61,14 @@ footer {
 }
 
 #indx_top {
-  width: 100%; 
-  padding: 250px 0; 
-  background: url(../image/unsplash-b.jpg) no-repeat 50% 50% /cover;
+  width: 100%;
+  padding: 250px 0;
+  background: url(../image/unsplash-b.jpg) no-repeat 50% 50% / cover;
   text-align: center;
 }
 #indx_top strong,
 #indx_top p {
-  color: ghostwhite
+  color: ghostwhite;
 }
 #indx_top strong {
   font-size: 70px;
@@ -79,15 +79,15 @@ footer {
   font-size: 30px;
 }
 
-#idex_top { 
-  width: 100%; 
-  padding: 250px 0; 
-  background: url(../image/unsplash-g.jpg) no-repeat 50% 50% /cover;
+#idex_top {
+  width: 100%;
+  padding: 250px 0;
+  background: url(../image/unsplash-g.jpg) no-repeat 50% 50% / cover;
   text-align: center;
 }
 #idex_top strong,
 #idex_top p {
-  color: rgb(255, 123, 123)
+  color: rgb(255, 123, 123);
 }
 #idex_top strong {
   font-size: 70px;

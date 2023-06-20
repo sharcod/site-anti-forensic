@@ -1,3 +1,5 @@
+
+
 function signUp() {
   let ID = document.getElementById('id').value;
   let password = document.getElementById('password').value;
